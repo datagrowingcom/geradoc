@@ -89,7 +89,7 @@ Configuração da aplicação:
 		$db['default']['username'] = ''; //informe o usuário do banco
 		$db['default']['password'] = ''; //informe a senha do usuário do banco
 		$db['default']['database'] = 'geradoc';
-		$db['default']['dbdriver'] = 'mysql';
+		$db['default']['dbdriver'] = 'mysqli';
 		$db['default']['dbprefix'] = '';
 		$db['default']['pconnect'] = TRUE;
 		$db['default']['db_debug'] = TRUE;
